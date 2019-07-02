@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /catalog
+Disallow: /images
+Host: http://studio-mari.ru
+Sitemap: http://studio-mari.ru/sitemap.xml

@@ -1,0 +1,97 @@
+body {
+  margin:             0 auto;
+  width:              800px;
+  font-family:        sans-serif;
+  position:           relative;
+}
+
+header {
+  position:           relative;
+}
+
+#logo_back {
+  padding-top:        30px;
+  height:             150px;
+  width:              800px;
+}
+
+#logo {
+  position:           absolute;
+  top:                10px;
+  left:               20px;
+  background-image:   url(images/logo_head.png);
+  background-size:    contain;
+  height:             100px;
+  width:              300px;
+}
+
+#head_contacts {
+  position:           absolute;
+  top:                55px;
+  right:              20px;
+  color:              rgb(247, 241, 234);
+  font-size:          1.5em;
+}
+
+article {
+  background-color:   rgb(239, 227, 198);
+  padding:            10px;
+  margin-top:         10px;
+  position:           relative;
+}
+
+#grav01 {
+  height:             1405px;
+}
+
+#grav02 {
+  height:             860px;
+}
+
+article div {
+  background-color:   rgb(0, 93,125);
+  padding:            10px;
+  color:              rgb(247, 241, 234);
+}
+#call_me {
+  position:           absolute;
+  right:              10px;
+  top:                1313px;
+  height:             82px;
+  width:              497px;
+  font-size:          140%;
+  text-align:         center;
+}
+
+#call_me p {
+  margin:             0px;
+  padding:            0px;
+  text-indent:        10px;
+}
+
+#call_me input.telephone {
+  height:             24px;
+  width:              250px;
+  margin-right:       10px;
+}
+#call_me input.submit {
+  height:             30px;
+  width:              150px;
+  margin-right:       10px;
+}
+
+h1 {
+  margin:             0px;
+}
+
+footer {
+    background-image:   url(images/logo_back.jpg);
+    background-size:    contain;
+    color:              rgb(247, 241, 234);
+    text-align:         center;
+    margin-top:         10px;
+    padding:            10px;
+    font-size:          80%;
+    margin-bottom:      10px;
+}
+
